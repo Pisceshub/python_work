@@ -5,10 +5,17 @@ git init
 git add README.md 
 git commit -m "first commit"  
 git branch -M main  
+<<<<<<< HEAD
 git remote add origin git@github.com:Pisceshub/python_work.git 
 git push -u origin main  
 ```
 
+=======
+git remote add origin git@github.com:Pisceshub/- python_work.git  
+git push -u origin main  
+```
+ 
+>>>>>>> origin/main
 ## push an existing repository from the command line   
 
 ```
@@ -23,7 +30,11 @@ git push -u origin main
 ### 0. Frequently used：
 ```
 git add .
+<<<<<<< HEAD
 git commit -m "first commit"
+=======
+git commit -m 'first commit'
+>>>>>>> origin/main
 git push -u origin main 
 git clone  git@github.com:Pisceshub/- python_work.git  python_pro 
 git pull origin main
@@ -67,5 +78,8 @@ git config --global user.email your_github_email@runoob.com
 ```
 
 more information reference to [git base operate](https://www.runoob.com/git/git-basic-operations.html)
+<<<<<<< HEAD
 
 test
+=======
+>>>>>>> origin/main
