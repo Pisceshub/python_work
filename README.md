@@ -26,7 +26,7 @@ git add .
 git commit -m 'first commit'
 git push -u origin main 
 git clone  git@github.com:Pisceshub/- python_work.git  python_pro 
- 
+git pull origin main
 ```
 
 
