@@ -45,7 +45,7 @@ git add README # README files
 
 ### 3. git commit 
 ```
-git commit -m 'first commit' # '__' that need to notes commit information
+git commit -m "first commit" # '__' that need to notes commit information
 
 ```
 
