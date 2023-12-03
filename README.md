@@ -89,14 +89,17 @@ net start sshd
 ```
 
 这是一个测试
+```
 git add .
 git commit -m "first commit"
-再点击main
+git push -u origin main  # (或者点main)
+```
+ 
+在其他vscode中使用如下更新
 
-在其他vscode中使用
+```
 git add .
 git commit -m "first commit"
 git pull -u origin main
 git merge origin/main --allow-unrelated-histories
-
-测试测试
+```
