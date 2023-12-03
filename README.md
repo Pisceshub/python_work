@@ -94,7 +94,9 @@ git commit -m "first commit"
 再点击main
 
 在其他vscode中使用
-git pull origin main
+git add .
+git commit -m "first commit"
+git pull -u origin main
 git merge origin/main --allow-unrelated-histories
 
 测试测试
