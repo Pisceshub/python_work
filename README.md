@@ -92,7 +92,7 @@ net start sshd
 ```
 git add .
 git commit -m "first commit"
-git push -u origin main 
+git push  origin main 
 ```
  
 在其他vscode中使用如下更新
