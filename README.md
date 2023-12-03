@@ -57,7 +57,6 @@ git commit -m "first commit" # '__' that need to notes commit information
 ```dotnetcli
 git clone <repo>  <directory> 
 ```
-
 ### 5. git info
 ```
 git config --list 
@@ -89,3 +88,9 @@ net stop sshd
 net start sshd 
 ```
 
+这是一个测试
+git add .
+git commit -m "first commit"
+再点击main
+
+在其他vscode中点main
