@@ -100,6 +100,6 @@ git push -u origin main  # (或者点main)
 ```
 git add .
 git commit -m "first commit"
-git pull -u origin main
+git pull origin main
 git merge origin/main --allow-unrelated-histories
 ```
