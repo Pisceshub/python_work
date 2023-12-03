@@ -96,11 +96,10 @@ git push  origin main
 ```
  
 在其他vscode中使用如下更新
---allow-unrelated-histories
+
 ```
 git add .
 git commit -m "first commit"
 git pull origin main
-git merge origin/main 
+git merge origin/main  --allow-unrelated-histories
 ```
-test
