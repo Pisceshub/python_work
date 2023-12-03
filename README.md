@@ -73,4 +73,18 @@ more information reference to [git base operate](https://www.runoob.com/git/git-
 ###  合并：
 ```
 git merge origin/main --allow-unrelated-histories
+
 ```
+
+### ssh公钥问题：Could not open a connection to your authentication agent.
+- translate: 无法打开到您的身份验证代理的连接。
+
+```
+ssh-agent bash
+ssh-add -D
+ssh-add C:/Users/Xugx/.ssh/id_rsa
+
+net stop sshd
+net start sshd 
+```
+
