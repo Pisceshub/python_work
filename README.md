@@ -57,8 +57,6 @@ git commit -m "first commit" # '__' that need to notes commit information
 ```dotnetcli
 git clone <repo>  <directory> 
 ```
-
-test
 ### 5. git info
 ```
 git config --list 
