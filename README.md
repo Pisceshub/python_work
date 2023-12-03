@@ -92,14 +92,14 @@ net start sshd
 ```
 git add .
 git commit -m "first commit"
-git push -u origin main  # (或者点main)
+git push -u origin main 
 ```
  
 在其他vscode中使用如下更新
-
+--allow-unrelated-histories
 ```
 git add .
 git commit -m "first commit"
 git pull origin main
-git merge origin/main --allow-unrelated-histories
+git merge origin/main 
 ```
