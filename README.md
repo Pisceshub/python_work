@@ -24,11 +24,11 @@ git push -u origin main
 
 ### 0. Frequently used：
 ```
+git pull origin main
 git add .
 git commit -m "first commit"
 git push -u origin main 
 git clone  git@github.com:Pisceshub/- python_work.git  python_pro 
-git pull origin main
 ```
 
 
@@ -74,3 +74,13 @@ more information reference to [git base operate](https://www.runoob.com/git/git-
 ```
 git merge origin/main --allow-unrelated-histories
 ```
+
+### ssh公钥问题：Could not open a connection to your authentication agent.
+- translate: 无法打开到您的身份验证代理的连接。
+
+```
+ssh-agent bash
+ssh-add C:/Users/Xugx/.ssh/id_rsa
+```
+
+
