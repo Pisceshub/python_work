@@ -118,3 +118,6 @@ hint:   git rm --cached DL
 hint: 
 hint: See "git help submodule" for more information.
 ```
+
+git rm --cached .env
+git add .gitignore
