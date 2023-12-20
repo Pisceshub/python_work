@@ -125,3 +125,6 @@ git rm --cached .env
 git rm -r --cached .
 git add .gitignore
 ```
+```
+git config --global core.autocrlf false
+```
