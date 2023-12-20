@@ -89,14 +89,11 @@ net start sshd
 ```
 
 这是一个测试
+测试好啊
 ```
 git add .
 git commit -m "first commit"
-<<<<<<< HEAD
-git push  origin main -f
-=======
-git push  origin main 
->>>>>>> origin/main
+git push  origin main
 ```
  
 在其他vscode中使用如下更新
@@ -120,12 +117,4 @@ hint:
 hint:   git rm --cached DL
 hint: 
 hint: See "git help submodule" for more information.
-<<<<<<< HEAD
 ```
-
-test
-
-252552测试？
-=======
-```
->>>>>>> origin/main
