@@ -11,8 +11,6 @@ git push -u origin main
 
 ## push an existing repository from the command line   
 
-
-
 ```
 git remote add origin git@github.com:Pisceshub/- python_work.git  
 git branch -M main  
@@ -88,16 +86,16 @@ net stop sshd
 net start sshd 
 ```
 
-这是一个测试
-测试好啊
+### 结束后上传文件
 ```
 git add .
 git commit -m "first commit"
 git push  origin main 
 ```
  
-在其他vscode中使用如下更新
 
+### 开始前更新文件文件
+在其他vscode中使用如下更新
 ```
 git add .
 git commit -m "first commit"
