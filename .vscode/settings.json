@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 {
     "python.analysis.typeCheckingMode": "basic",
     "python.analysis.autoImportCompletions": true,
     "editor.suggest.snippetsPreventQuickSuggestions": false,
     "aiXcoder.showTrayIcon": true
+=======
+{
+    "python.analysis.typeCheckingMode": "basic",
+    "python.analysis.autoImportCompletions": true
+>>>>>>> 43d58c9a6b451a49b6e3b42f51a63efbb7952134
 }
