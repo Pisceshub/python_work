@@ -102,7 +102,6 @@ git add .
 git commit -m "first commit"
 git pull origin main
 git merge origin/main  --allow-unrelated-histories
-<<<<<<< HEAD
 ```
 
 ```
@@ -117,6 +116,7 @@ hint:
 hint:   git rm --cached DL
 hint: 
 hint: See "git help submodule" for more information.
-=======
->>>>>>> origin/main
 ```
+
+
+tets
