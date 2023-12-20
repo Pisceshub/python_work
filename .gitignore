@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 demo/XGX/data/
 DL/data/
 nrf_52840/data/
 
+=======
+nrf_52840/data/*
+Deep_learning/data/*
+demo/XGX/data/*
+>>>>>>> origin/main
