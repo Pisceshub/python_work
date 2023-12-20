@@ -1,6 +1,6 @@
-demo/XGX/data/**/*.
-DL/data/**/*.
-nrf_52840/data/**/*.
+demo/XGX/data/
+DL/data/
+/nrf_52840/data/
 
 *.jpg
 *.csv
