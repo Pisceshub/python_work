@@ -93,7 +93,7 @@ net start sshd
 ```
 git add .
 git commit -m "first commit"
-git push  origin main
+git push  origin main 
 ```
  
 在其他vscode中使用如下更新
@@ -120,4 +120,5 @@ hint: See "git help submodule" for more information.
 ```
 
 git rm --cached .env
+git rm -r --cached .
 git add .gitignore
