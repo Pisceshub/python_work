@@ -103,3 +103,17 @@ git commit -m "first commit"
 git pull origin main
 git merge origin/main  --allow-unrelated-histories
 ```
+
+```
+the embedded repository and will not know how to obtain it.        
+hint: If you meant to add a submodule, use:
+hint: 
+hint:   git submodule add <url> DL
+hint: 
+hint: If you added this path by mistake, you can remove it from the      
+hint: index with:
+hint: 
+hint:   git rm --cached DL
+hint: 
+hint: See "git help submodule" for more information.
+```
