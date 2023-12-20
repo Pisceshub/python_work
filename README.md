@@ -120,4 +120,5 @@ hint: See "git help submodule" for more information.
 ```
 
 git rm --cached .env
+git rm -r --cached .
 git add .gitignore
