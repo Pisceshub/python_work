@@ -117,7 +117,7 @@ hint:
 hint: See "git help submodule" for more information.
 ```
 
-删除缓存   测试一下
+删除缓存 
 ```
 git rm --cached .env
 git rm -r --cached .
